@@ -1,4 +1,4 @@
 Osmosis-Linux
 =============
 
-Osmosis Linux distribution for Wilmington University Dover Cyber Cluv
+Osmosis Linux distribution for the Wilmington University Dover Cyber Club
